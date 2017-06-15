@@ -1,1 +1,1 @@
-Script de prueba
+SELECT * FROM DOASCXN1.TDAS_ASESOR
